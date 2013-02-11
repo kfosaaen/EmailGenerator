@@ -1,0 +1,1 @@
+This is a simple PowerShell script that takes in some source info (from iOS Game Center) and generates potential email addresses to SHA1 and compare against some collected hashes. It's not complete, or very efficient, but that's not really important at this time.
